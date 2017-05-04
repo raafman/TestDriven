@@ -1,0 +1,13 @@
+[0504/105856.761:ERROR:process_reader_win.cc(114)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights.  (0xc0000022)
+[0504/105856.784:ERROR:exception_snapshot_win.cc(87)] thread ID 4980 not found in process
+[0504/105856.784:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0504/114014.539:ERROR:process_info.cc(625)] range at 0xf8de2a6400000000, size 0xec fully unreadable
+[0504/114014.540:ERROR:process_info.cc(625)] range at 0xf8de2ac600000000, size 0xec fully unreadable
+[0504/114014.540:ERROR:process_info.cc(625)] range at 0x0, size 0xec fully unreadable
+[0504/114015.693:ERROR:process_info.cc(625)] range at 0xf9e2a6400000000, size 0x82 fully unreadable
+[0504/114016.292:ERROR:process_info.cc(625)] range at 0xf9e2ac600000000, size 0x82 fully unreadable
+[0504/114016.292:ERROR:process_info.cc(625)] range at 0x0, size 0x82 fully unreadable
+[0504/114020.396:ERROR:process_info.cc(373)] UncheckedAllocate
+[0504/114020.427:ERROR:process_info.cc(373)] UncheckedAllocate
+[0504/114021.924:ERROR:process_reader_win.cc(233)] ReadMemory at 0x7ffce2f8ab20 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0504/114021.924:ERROR:crash_report_exception_handler.cc(111)] WriteEverything failed
